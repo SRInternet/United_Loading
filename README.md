@@ -2,6 +2,12 @@
 一个显示不确定加载进度条的窗口
 
 ## 使用方法
+
+前往 [Release](https://github.com/SRInternet/United_Loading/releases) 页面下载最新的版本，运行 `United_Loading.exe`
+
+> 如果要在 Linux 或 MacOS 中运行，请**使用源代码**
+
+## 使用源代码
 1. 安装所有所需依赖
 ```bash
 pip install -r requirements.txt
